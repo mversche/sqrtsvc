@@ -1,2 +1,2 @@
 # sqrtsvc
-A simple sqrt service
+A simple sqrt service using asio and btl.
